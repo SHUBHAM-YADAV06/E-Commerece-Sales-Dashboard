@@ -17,4 +17,7 @@ Monthly Profit Trends: Includes a Profit Month analysis to track performance cha
 
 <Dashboard interaction <a href="https://app.powerbi.com/groups/me/reports/6e1c8b60-c361-4441-a910-c8336cc7d7ba/ReportSection?experience=power-bi">View Dashboard</a>
 
+#Dashboard
+![Screenshot (409)](https://github.com/user-attachments/assets/7f1ee0d4-4bf7-49e5-ace1-41b8eddab778)
+
 
